@@ -25,8 +25,8 @@ It provides complete CRUD APIs for managing orders and includes two additional A
 ✔ Get all orders  
 ✔ Update an order  
 ✔ Delete an order  
-✔ Update order status *(extra API)*  
-✔ Get orders by status *(extra API)*  
+✔ Update order status  
+✔ Get orders by status   
 
 ---
 
@@ -73,7 +73,7 @@ http://localhost:8080/h2-console
 Credentials:
 JDBC URL: jdbc:h2:mem:ordersdb
 User: sa
-Password: (empty)
+Password: 
 
 ---
 
