@@ -58,10 +58,10 @@ Example JSON body:
 ### ➤ Delete Order  
 `DELETE /orders/{id}`
 
-### ➤ Update Order Status (Extra API)  
+### ➤ Update Order Status   
 `PUT /orders/{id}/status?status=SHIPPED`
 
-### ➤ Filter Orders by Status (Extra API)  
+### ➤ Filter Orders by Status   
 `GET /orders/status/{status}`
 
 ---
